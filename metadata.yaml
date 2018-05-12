@@ -1,0 +1,32 @@
+_repo: Freaks-of-Fortuneor-Half-Round-the-World_24631
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 24631-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Optic, Oliver
+    aliases:
+    - Adams, William T. (William Taylor)
+    - Adams, William Taylor
+    birthdate: 1822
+    deathdate: 1897
+    gutenberg_agent_id: '260'
+    url: http://www.gutenberg.org/2009/agents/260
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a5655
+description: ''
+gutenberg_issued: '2008-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24631'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Massachusetts -- Fiction'
+- !lcc 'PZ'
+- !lcsh 'Americans -- Australia -- Fiction'
+- !lcsh 'Fishing -- Juvenile fiction'
+title: Freaks of Fortune; or, Half Round the World
+url: http://www.gutenberg.org/ebooks/24631
